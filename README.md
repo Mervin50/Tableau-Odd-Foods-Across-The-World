@@ -1,8 +1,8 @@
 # Tableau-Odd-Foods-Across-The-World
 
-### Our Dashboard 
-
 <img width="687" height="328" alt="image" src="https://github.com/user-attachments/assets/ed175ee7-eb4b-41ae-b55e-0b9eeb1c8c48" />
+
+### Our Dashboard 
 
 <img width="1351" height="197" alt="image" src="https://github.com/user-attachments/assets/0e55e5f4-8d30-443f-bb05-ba809ed397e9" />
 
