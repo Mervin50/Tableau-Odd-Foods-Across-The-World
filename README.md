@@ -2,6 +2,8 @@
 
 ### Our Dashboard 
 
+<img width="687" height="328" alt="image" src="https://github.com/user-attachments/assets/ed175ee7-eb4b-41ae-b55e-0b9eeb1c8c48" />
+
 <img width="1351" height="197" alt="image" src="https://github.com/user-attachments/assets/0e55e5f4-8d30-443f-bb05-ba809ed397e9" />
 
 <img width="1338" height="387" alt="image" src="https://github.com/user-attachments/assets/d3204226-71f0-49e9-b090-8fe81b77e717" />
