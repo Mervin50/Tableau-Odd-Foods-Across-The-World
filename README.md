@@ -2,9 +2,6 @@
 
 ### Our Dashboard 
 
-[Click on here to go to my Odd_Foods_Across_The_World dashboard on Tableau Public](https://public.tableau.com/views/Dashboard2OddFoods/OddFoodsAcrossTheWorld)
-
-
 <img width="1351" height="197" alt="image" src="https://github.com/user-attachments/assets/0e55e5f4-8d30-443f-bb05-ba809ed397e9" />
 
 <img width="1338" height="387" alt="image" src="https://github.com/user-attachments/assets/d3204226-71f0-49e9-b090-8fe81b77e717" />
@@ -12,6 +9,8 @@
 <img width="1335" height="415" alt="image" src="https://github.com/user-attachments/assets/40f6103c-03c9-4cd6-9d4c-a11a0a970bf4" />
 
 <img width="1351" height="436" alt="image" src="https://github.com/user-attachments/assets/b1a988da-aa09-4eae-ba4b-09428456a9c3" />
+
+[Click on here to go to my Odd_Foods_Across_The_World dashboard on Tableau Public](https://public.tableau.com/views/Dashboard2OddFoods/OddFoodsAcrossTheWorld)
 
 
 
